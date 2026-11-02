@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "Hard Mode Flowery Mod",
+    "version": "1.03",
+    "color": {
+            "r": 255,
+            "g": 214,
+            "b": 132
+        },
+    "description": "A mod that beefs up the Flowery boss fight at the end of Chapter 5 to be significantly more difficult!! Try your best to beat this guy!",
+    "author": [
+      "dumbpro555"
+    ],
+    "url": "https://gamebanana.com/mods/701463",
+    "tags": ["gameplay"],
+    "packageID": "gamebanana.hardflowery.dp5png",
+    "game": "toby.deltarune"
+  }
+}

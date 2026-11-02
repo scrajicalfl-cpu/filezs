@@ -1,0 +1,17 @@
+deltaruneTargetVersion = "1.04"
+
+[metadata]
+name = "NXRUNE"
+version = "1.0.0"
+description = "NXRUNE XDelta patches for DELTARUNE Chapters 1-5 and Chapter Select."
+author = [ "IruzzArcana" ]
+packageID = "und.nxrune.iruzzarcana"
+game = "toby.deltarune"
+mergeSupport = true
+ai = "no"
+tags = [ "other", "gameplay" ]
+
+[color]
+r = 0
+g = 0
+b = 0
